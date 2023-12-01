@@ -8,12 +8,6 @@
 
 <br/>
 
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Jard1n/Jard1n/contribution-snake/github-contribution-grid-snake.svg" />
-</div>
-
-<br/>
-
 <a href="https://github.com/Jard1n">
   <img src="https://raw.githubusercontent.com/Jard1n/Jard1n/output/github-contribution-grid-snake.svg" />
 </a>
