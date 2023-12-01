@@ -13,7 +13,7 @@
 </a>
 <br>
 
-[![TributePaulWalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jard1n&show_icons=true&count_private=true&theme=vue)](https://github.com/Jard1n)
+[![Jard1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jard1n&show_icons=true&count_private=true&theme=vue)](https://github.com/Jard1n)
 
 ## 访问量统计
 
