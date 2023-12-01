@@ -23,3 +23,18 @@
 ### 访问量统计
 
 ![Visitor Count](https://profile-counter.glitch.me/Jard1n/count.svg)
+
+
+## Visitor Counter
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Jard1n&&style=flat-square" align="center" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@Jard1n?theme=rule34" align="center" />
+</div>
+
+<br/>
