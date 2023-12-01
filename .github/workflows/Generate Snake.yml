@@ -1,11 +1,10 @@
-name: generate animation
+name: generate-contribution-snake
 
 on:
   schedule:
-    - cron: "0 * * * *" 
+    - cron: "0 * * * *"
   
   workflow_dispatch:
-  
     
 jobs:
   generate:
@@ -13,21 +12,27 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          main: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout Repository
+        uses: actions/checkout@v3  # Action to checkout the repository
+      
+      - name: Generate GitHub contribution grid snake
+        run: |
+          npx github-contribution-grid-snake -u ${{ github.repository_owner }} -O dist/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          
-      - name: push github-contribution-grid-snake.svg to the main branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: main
-          build_dir: contribution-snake
+
+      - name: Create contribution-snake folder
+        run: mkdir contribution-snake  # Create the target folder
+
+      - name: Move generated file to contribution-snake folder
+        run: mv dist/github-contribution-grid-snake.svg contribution-snake/
+
+      - name: Commit and Push to main
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add contribution-snake/
+          git commit -m "Add GitHub contribution grid snake"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
