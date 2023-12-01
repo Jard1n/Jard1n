@@ -9,8 +9,8 @@
 <br/>
 
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"<img src="https://github.com/Jard1n/contribution-snake/github-contribution-grid-snake.svg" />
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/Jard1n/Jard1n/contribution-snake/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
