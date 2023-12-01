@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Jard1n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height:300px;" />
+</div>
+
+### **<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%88%91%E6%98%AF+Jard1n+%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E4%BD%A0+%EF%BC%81" alt="Typing SVG" /></div>**
+
+**<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Jard1n.+Nice+to+meet+you!" alt="Typing SVG" /></div>**
+
+<br/>
 
 <!---
 Jard1n/Jard1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
