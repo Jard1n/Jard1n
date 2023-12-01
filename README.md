@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jard1n&show_icons=true&count_private=true&hide_border=true&theme=vue&hide_border=false" align="center" style="height:180px; border: 100px solid red;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jard1n&show_icons=true&count_private=true&hide_border=true&theme=vue&hide_border=false" align="center" style="height:180px; border: 100px solid red;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jard1n&show_icons=true&count_private=true&hide_border=true&theme=vue&hide_border=false" align="center" style="height:180px; border: 1px solid red;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jard1n&show_icons=true&count_private=true&hide_border=true&theme=vue&hide_border=false" align="center" style="height:180px; border: 1px solid red;" />
 </div>
 
 <br/>
