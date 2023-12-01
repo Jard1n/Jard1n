@@ -16,7 +16,7 @@
 ## Github Stats 
 
 <div align="center">
-<a href="https://github.com/Jard1n">
+href="https://github.com/Jard1n">
   <img src="https://github-readme-stats.vercel.app/api?username=Jard1n&show_icons=true&count_private=true&hide_border=true&theme=vue" align="center" style="height:180px;" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jard1n&show_icons=true&count_private=true&hide_border=true&theme=vue" align="center" style="height:180px;" />
 </div>
