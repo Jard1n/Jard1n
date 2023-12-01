@@ -13,11 +13,6 @@
 </a>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jard1n&layout=compact&theme=vue)](https://github.com/Jard1n/Jard1n)
-
-[![Jard1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jard1n&show_icons=true&count_private=true&theme=vue)](https://github.com/Jard1n)
-
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jard1n&show_icons=true&count_private=true&hide_border=true&theme=vue" align="center" style="height:180px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jard1n&show_icons=true&count_private=true&hide_border=true&theme=vue" align="center" style="height:180px;" />
