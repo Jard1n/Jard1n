@@ -9,6 +9,12 @@
 <br/>
 
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"<img src="https://github.com/Jard1n/contribution-snake/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+
 [![TributePaulWalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jard1n&show_icons=true&count_private=true&theme=vue)](https://github.com/Jard1n)
 
 ## 访问量统计
