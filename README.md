@@ -14,14 +14,13 @@
 <br>
 
 ## Github Stats 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jard1n&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Jard1n&show_icons=true&include_all_commits=true&theme=dark_github)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jard1n&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Jard1n&show_icons=true&include_all_commits=true&theme=dark_github)
 
 ## Visitor Counter
 
-<div align="center">
 <a href="https://github.com/Jard1n">
-   <img src="https://count.getloli.com/@:Jard1n?theme=rule34" align="center" />
-</div>
+   <img src="https://count.getloli.com/@:Jard1n?theme=rule34" />
+</a>
 
-<br/>
+</div>
