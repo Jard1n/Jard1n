@@ -28,7 +28,7 @@
 
 <div align="center">
 <a href="https://github.com/Jard1n">
-   <img src="https://moe-counter.glitch.me/get/@Jard1n?theme=rule34" align="center" />
+   <img src="https://count.getloli.com//get/@Jard1n?theme=rule34" align="center" />
 </div>
 
 <br/>
